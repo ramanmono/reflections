@@ -28,6 +28,10 @@ and for changes that change behaviour in a way that is drastically different.
 
 How do the diagrams help you visualize the branch structure?
 
+That is what a diagram does. Helps visualising data.
+In this case the commits in each branch and how they are related.
+
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
