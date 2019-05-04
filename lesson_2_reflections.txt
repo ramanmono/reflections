@@ -37,5 +37,9 @@ the diagram the way we do?
 
 The changes of both are go to one commit. It's shown like this because they get combined.
 
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+pros are that it is easier, when it works ,but if there are conflicts, 
+you might have to check it other contrubuters what you want the merge to really be.
