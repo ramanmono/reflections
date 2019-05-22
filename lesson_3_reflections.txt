@@ -23,7 +23,9 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    It helps with conflits when you work offline.
+    When you get back online you can update the local version of the remote first
+    and then workout possible conflits before commiting your changes.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
